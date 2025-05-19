@@ -17,7 +17,7 @@ Bibliotecas listadas em requirements.txt
 🚀 Instalação
 Clone o repositório:
 bash
-git clone [URL_DO_REPOSITORIO]
+git clone (https://github.com/Debleta/sghss-backend-py)
 cd sghss-api
 Crie um ambiente virtual (recomendado):
 
