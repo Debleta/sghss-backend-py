@@ -111,3 +111,58 @@ Traceback (most recent call last):
               ^^^^^^^^^^^^^^^^^
 AttributeError: module 'bcrypt' has no attribute '__about__'
 2025-05-19 00:10:30,885 INFO: Rota raiz acessada
+2025-05-19 00:34:16,070 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-19 00:34:16,148 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-19 00:34:16,499 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-19 00:34:16,963 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-19 00:34:17,172 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-19 00:34:17,383 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-19 00:34:17,457 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-19 00:34:17,690 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-19 00:34:18,354 INFO: Rota raiz acessada
+2025-05-19 00:34:18,355 INFO: Rota raiz acessada
+2025-05-19 00:34:18,377 INFO: Rota raiz acessada
+2025-05-19 00:34:18,386 INFO: Rota raiz acessada
+2025-05-19 00:34:18,386 INFO: Rota raiz acessada
+2025-05-19 00:34:18,387 INFO: Rota raiz acessada
+2025-05-19 00:34:18,404 INFO: Rota raiz acessada
