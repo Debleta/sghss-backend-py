@@ -1,0 +1,113 @@
+2025-05-18 22:54:18,394 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-18 22:54:18,728 ERROR: Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-05-18 22:54:18,749 ERROR: Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-05-18 22:54:28,999 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-18 22:54:29,021 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-18 22:54:29,302 ERROR: Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-05-18 22:54:29,320 ERROR: Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-05-18 22:55:03,568 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-18 22:55:03,574 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-18 22:55:03,893 ERROR: Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-05-18 22:55:03,898 ERROR: Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-05-18 22:59:08,783 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-18 22:59:09,111 ERROR: Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-05-18 22:59:49,428 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-18 22:59:49,718 ERROR: Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-05-18 23:01:19,997 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-18 23:08:16,357 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-18 23:16:02,401 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-19 00:03:28,176 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-19 00:10:21,670 WARNING: (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cliente\Desktop\sghss-backend-py\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-19 00:10:30,885 INFO: Rota raiz acessada
